@@ -25,5 +25,6 @@ venv.bak/
 **/.DS_Store
 .history
 .vs/
+libraryproject/.vs/
 
 
