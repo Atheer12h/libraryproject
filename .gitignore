@@ -24,3 +24,6 @@ venv.bak/
 **/__pycache__
 **/.DS_Store
 .history
+.vs/
+
+
